@@ -3,7 +3,9 @@ customwifipage
 
 1. maak een aangepaste LOGIN.HTML
 
-!!! zorg ervoor dat de javascriptcode 'submitAction' en zo erin staat - laatste stukje ook, hoewel niet duidelijk of dat nodig is
+> zorg ervoor dat de javascriptcode 'submitAction' en zo erin staat - laatste stukje ook, hoewel niet duidelijk of dat nodig is
+
+> kopieer form code
 
 2. maak tarbestand login.tar (! vanuit directory waar login.html staat werken !)
 
